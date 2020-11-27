@@ -1694,10 +1694,10 @@ pre[class*='language-']:hover .copy-btn {
   left: 0;
   width: 20rem;
   background-color: #fff;
-  background-image: url("https://oss-zeng.oss-cn-beijing.aliyuncs.com/images/bg.jpg");
+  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn@master/img/bg/alpha-stars-timing-1.webp");
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: bottom 3rem center;
+  background-position: bottom 1rem center;
   text-align: center;
   z-index: 10;
   transition-property: all;
