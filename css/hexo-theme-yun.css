@@ -219,7 +219,7 @@ body::before {
   opacity: 0;
 }
 .char-left {
-  border-left: 1px solid var(--banner-line-color);
+  border-left: 0 solid var(--banner-line-color);
   border-right: 0px solid rgba(98,0,238,0.1);
   border-right-width: 0px;
   animation-duration: 0.4s;
@@ -229,7 +229,7 @@ body::before {
 }
 .char-right {
   border-left: 0px solid rgba(98,0,238,0.1);
-  border-right: 1px solid var(--banner-line-color);
+  border-right: 0 solid var(--banner-line-color);
   border-left-width: 0px;
   animation-duration: 0.4s;
   animation-delay: 0.4s;
